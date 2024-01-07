@@ -1,0 +1,2 @@
+# Set the number of words you want to test in one session. (Default = 25)
+100

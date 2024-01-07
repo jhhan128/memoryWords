@@ -8,7 +8,13 @@ import os
 import random
 import threading
 
-def preRun():
+def pre_run():
+    ip2 = open("lib/inf.txt", 'r')
+
+    s = ip2.readline()
+    s = ip2.readline()
+    length = int(s)
+
     ip = open("lib/database.txt", 'r')
     op = open("lib/result.txt", 'w')
 
@@ -20,7 +26,8 @@ def preRun():
         arr.append(s)
 
     random.shuffle(arr)
-    for i in range(500): op.write(arr[i])
+    for i in range(min(len(arr), length)): op.write(arr[i])
+
 
 class WordQuizApp(QWidget):
     def __init__(self, filename):
@@ -177,7 +184,7 @@ class WordQuizApp(QWidget):
 
 
 if __name__ == '__main__':
-    preRun()
+    pre_run()
     app = QApplication(sys.argv)
     ex = WordQuizApp("lib/result.txt")
     sys.exit(app.exec_())

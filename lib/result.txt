@@ -1,500 +1,100 @@
-harbor|	항구
-subsequent|	이후의, 다음의, 뒤이어 일어나는
-sibling|	형제, 자매
-portion|	일부, 부분, 몫
-combine|	결합시키다
-determine|	결정하다
-mediate|	중재하다
-associate A with B|	A를 B 와 연관시키다
-credit|	신용, 믿음
-compel|	강요하다
-optical|	시각의
-couch|	소파
-flee|	달아나다
-worse|	더 나쁜
-junk|	쓰레기
-altitude|	고도
-detract|	떨어뜨리다
-disregard|	무시하다
-assess|	평가하다
-feat|	공훈, 공적, 위업
-muscle|	근육
-sticky|	끈끈한
-hold one's breath|	숨을 멈추다(참다)
-reservation|	예약
-orient|	동양, 동양의,~로 향하게 하다
-arbitrary|	임시적인, 임의의
-mad|	성난, 화난
-mount|	올라가다
-penetrate|	침투하다
-shed|	발산하다, (눈물, 피) 흘리다, 헛간
-revive|	소생하다
-earthquake|	지진
-assert|	주장하다
-complement|	보충하다, 보완하다
-opposite|	반대의
-remove|	제거하다
-insightful|	통찰력있는
-pour|	쏟아붓다
-preference|	선호, 좋아함
-get in|	방해하다, 들어가다
-rent|	임대료, 빌리다
-never before nor since|	전무후무하게
-laden|	짐을 싫은
-impair|	손상시키다
-make sense|	이치에 맞다
-external|	외부적인
-analogy|	비유, 유사점
-motivate|	동기 부여하다.
-frontier|	미개척지
-achievement|	업적, 성취
-accurate|	정확한
-ultimate|	궁극적인
-assemble|	조립하다, 짜맞추다
-vehicle|	차량
-observance|	준수
-seed|	씨앗, 씨앗뿌리다
-astrology|	점성학
-dictator|	독재자
-insight|	통찰력
-be worth ~ing|	~할 가치가 있다
-nod|	끄덕이다
-cheat|	사기치다, 속이다
-proceed|	나아가다, 전진하다
-folk|	사람들, 민속의, 민간의
-shrink|	수축하다, 줄어들다
-emerge|	나타나다, 출현하다
-persuasive|	설득력있는
-despair|	절망
-accept|	받아들이다
-confront|	마주하다, 대면하다
-glimpse|	언뜻보다, 언뜻봄
-indignant|	분개한, 성난
-stroll|	산책하다, 산책
-be |~ at the mercy	좌지우지 되다
-temporarily|	일시적으로, 임시적으로
-raw|	날것의, 원재료의
-be subject to|	~하기로 되어있다
-restraint|	억제, 자제
-remind|	떠오르게 하다, 상기시키다
-incomparably|	비교할 수 없을 정도로
-advantage|	이점
-afford|	~할 여유가 있다, 제공하다
-transparent|	투명한, 명백한
-by ~ing|	~함으로써
-gloomy|	우울한
-rise|	오르다
-confirm|	확인하다
-tropical|	열대의
-craving|	갈망
-supportive|	뒷받침하는, 보완하는, 보충하는
-rid|	제거하다
-no avail|	헛되이
-contradict|	반대하다, 반박하다, 모순되다
-specify|	규명하다, 명시하다
-entitle|	~할 자격을 주다
-fulfill|	충족시키다, 이행하다
-subconscious|	잠재의식의
-practical|	실제적인, 실용적인
-rotten|	썩은
-inherit|	물려받다, 상속하다
-superb|	최고의
-hypothesis|	가설, 전제
-district|	지역, 구역
-rough|	거친
-contagious|	전염성이 있는
-banquet|	연회
-breakthrough|	돌파구, 성공, 약진
-analyst|	분석가
-aisle|	복도
-keep |목 from ~ing	목적어가 ~ing 하는 것을 막다
-perish|	멸망하다 죽다
-entail|	필요로하다, 수반하다
-diverse|	다양한
-representative|	대표자
-jam|	밀어넣다, 쑤셔넣다
-astronomical|	천문의
-assign|	할당하다, 배정하다
-paralyze|	마비시키다
-modify|	수정하다
-discredit|	불신하다
-prophet|	예언가
-intervention|	중재, 간섭, 도움
-marginalize|	하찮게 여기다, 무시하다
-abroad|	해외의, 해외로
-spawn|	낳다, 생산하다
-bewilder|	당황하게 하다
-exclusive|	독점적인,배타적인
-crush|	으깨다, 부수다
-flipper|	지느러미
-allowance|	수당, 용돈
-naive|	순진한
-cause|	야기하다
-prophesy|	예언하다
-consume|	소비하다
-refugee|	피난자, 난민
-bear in mind = keep in mind|	명심하다
-thrive|	번영하다
-take off|	이륙하다, 벗기다
-sneak|	(몰래)빠져나가다, 도망치다
-flourish|	번성하다, 번영하다
-be capable of|	~할 능력이 있는
-humidity|	습도
-crude|	날것의(=raw), 조잡한
-sink|	가라앉다
-rotate|	회전시키다
-switch|	바꾸다
-vendor|	노점상인
-plausible|	그럴듯한
-distribute|	분배하다
-sundial|	해시계
-thought(|명사)	생각
-dimension|	차원, 측면
-slightly|	약간, 조금
-contemplate|	사색하다(think), 응시하다
-ritual (= ceremony)|	의식
-preserve|	보존하다
-differ|	~와 다르다
-quantity|	양
-feature|	특징, 모습, ~을 특집으로 하다, 특색짓다
-radiate|	(빛) 발하다, 방사하다, 퍼뜨리다
-tribe|	부족
-parallel|	유사점, 유사성
-seize|	체포하다, 점령하다
-pessimist|	비관주의자
-lonely|	외로운
-owe|	빚지다
-gasp|	숨이 턱 막히다. 숨막힘
-aimlessly|	목적없이
-discharge|	해고하다, 석방하다, 배출하다
-inquire|	질문하다
-orphan|	고아
-irregular|	불규칙적인
-remain|	남다, 유지하다
-definite|	명백한
-beverage|	음료
-scatter|	분산시키다
-essential|	필수적인, 본질적인
-incapable|	~할 능력이 없는
-be liable to v|	~하기 쉽다
-with regard to|	~에관해서
-perceptual|	지각의, 인식의
-prescribe|	처방하다,규정하다
-symbolize|	상징하다
-insulation|	단열
-specific|	구체적인, 명료한
-frighten|	놀라게 하다, 두렵게 하다
-improve (= enhance)|	올리다, 향상시키다
-spit|	침뱉다
-dictate|	받아쓰다, 명령하다, 명령
-adorn|	장식하다
-second-hand|	중고
-transition|	이행, 전환
-administration|	관리, 경영, 행정부
-emit (=shed)|	발산하다
-ticklish|	간지러운
-stray|	흩어진, 길잃은
-perform|	수행하다
-suit|	맞추다, 맞다
-offer|	제공하다
-sweep|	쓸다
-popularity|	인기
-raid|	공습하다, 습격
-relate|	연관시키다
-accumulate|	쌓다, 축적하다
-by all means|	반드시
-slide|	미끄러져 움직이다
-intensify|	강화하다.
-employ|	고용하다, 이용하다
-address|	연설하다, 해결하다
-jar|	항아리, 단지
-eligible|	적격의 ~할 자격이 있는
-adequate|	알맞은
-material|	물질, 자료
-property|	재산, 속성, 특성
-pest|	해충
-presume|	추정하다
-metabolism|	신진대사
-analyze|	분석하다
-steer|	조종하다, 몰고가다
-insurance|	보험
-sincerity|	진실, 성실
-state|	상태, 진술하다, 국가
-immoral|	비도덕적인
-serious|	심각한
-pesticide|	살충제, 해충제
-diminish (=decrease)|	줄이다, 축소하다, 작아지다
-conceivable|	생각할수 있는, 상상할 수있는
-reinforce|	강화하다
-be responsible for|	~역할을 하다, 책임을 지다
-cough|	기침하다
-diabetes|	당뇨
-imprison|	가두다
-dominate|	점거하다, 점유하다
-tend to v|	~하는 경향이 있다
-recruit|	모집하다
-immediately|	즉시, 인접하여
-definition|	정의
-numb|	마비된
-depend on =rely on|	~에 의존하다
-reply|	응답하다, 대답
-unjust|	부당한
-tease|	조롱하다
-versatile|	다재다능한
-narrative|	이야기, 담화
-mute|	(소리)를 줄이다, 작게하다
-sanitary|	위생의, 위생적인
-omit|	빠뜨리다, 생략하다
-displace|	옮기다, 교체하다
-crime|	범죄
-prospect|	전망, 답사하다
-pregnant|	임신한
-quarrel|	논쟁하다, 싸우다
-diaper|	기저귀
-raise|	기르다, 올리다
-deal with|	다루다, 처리하다
-generous|	관대한
-pneumonia|	페렴
-drop out of|	중퇴하다
-diligence|	부지런함
-contribute to|	~에 공헌하다
-evolution|	진화
-resident|	거주민
-investigate|	조사하다
-struggle|	투쟁하다, 노력하다
-lay out|	설계하다
-autonomous|	자율적인, 자치의
-prominent|	저명한, 유명한
-credibility|	믿음, 신용
-no longer (= not |~ any more)	더이상 ~아니다
-mind|	마음, 꺼리다
-mob|	군중, 폭도
-magnificent|	웅장한 거대한
-bring up|	기르다, 양육하다
-embrace|	껴안다, 수용하다
-consistent|	일관적인, 일치하는
-recognize|	인식하다, 알다
-permanent|	영구적인
-correct|	바로잡다, 수정하다, 올바른
-investment|	투자
-deserve|	~할 가치가 있다, ~받을 만하다
-ignorance|	무지, 무식
-scrape|	긁어내다, 긁다
-woeful|	슬픔에찬, 비참한
-service|	봉사
-stitch|	꿰매다, 한바늘(땀)
-organism|	유기체
-set up|	설치하다
-generate|	일으키다, 발생시키다
-appetite|	식욕
-pessimism|	비관주의
-affirmation|	확언, 확인, 단언
-pollute|	오염 시키다
-mammal|	포유동물
-generation|	세대
-underlie|	~의 근본이 되다
-lethally|	치명적으로
-otherwise|	그렇지 않으면
-combustion|	연소
-resume|	재개하다
-stretch|	늘이다, 펴다
-protect|	보호하다
-assure|	보증하다
-burden|	짐, 짐지우다
-trace|	흔적, 추적하다
-A as well as B|	B뿐만 아니라 A도
-sour|	신, 시큼한
-department|	부서, 매장
-confine|	제한하다
-probe|	탐사하다
-terminology|	전문용어
-meditate|	명상하다, 깊이 생각하다
-gather|	모으다, 모이다
-sincere|	성실한, 진실한
-excavate|	발굴하다, 파다
-reckon|	간주하다, 여기다
-appreciate|	감사하다, 감상하다, 이해하다
-attach|	첨부하다
-inventory|	목록
-stack|	쌓다, 세우다
-accuse|	고소하다
-withdraw|	인출하다, 취소하다, 철회하다
-frequency|	빈번함
-divinity|	신, 신학
-mindful|	~을 유념하는, ~을 신경쓰는
-rate|	비율, 평가하다
-have a lot of to do with|	~와 연관이 많다
-hospitality|	환대
-maintenance|	유지, 지속, 유지비
-politician|	정치가
-formulate|	공식화하다, (체계적으로)나타내다
-responsibility|	책임, 역할
-devote|	~에 전념하다, 헌신하다
-incredible|	믿을 수 없는
-skeletal|	골격의
-solve|	풀다, 해결하다
-burial|	묻을 수 있는
-receive|	받다
-ambiguous|	애매모호한
-priority|	우선순위
-evident|	분명한
-kinship|	친족
-static|	정적인
-assembly|	조립
-author|	작가
-presence|	존재, 참석
-vice versa|	반대로, 거꾸로
-disaster|	재해
-dignity|	위엄
-seagulls|	갈매기
-nasty|	고약한, 끔찍한
-literally|	말그대로 문자그대로
-humility|	겸손
-pedestrian|	보행자
-convert|	전환하다, 바꾸다
-prevail|	우세하다, 널리 퍼지다
-honor|	기리다
-disorder|	혼란, 장애
-defend|	막다, 방어하다
-transmission|	전달, 전송
-submarine|	잠수함
-betray|	배신하다
-lead|	납, 이끌다
-bully|	불량배, 약자를 괴롭히는 사람
-prefer A to B|	A를 B보다 더 좋아하다
-thick|	두꺼운
-ample|	광대한, 넓은
-proportion|	비율, 부분
-famine|	기근
-arrangement|	준비, 배열
-frown|	찌푸리다
-hesitate|	주저하다
-opportunity|	기회
-valuable|	귀중한
-ridiculous|	어처구니없는
-indifference|	무관심
-shrug off A as B|	A를 B로 여겨 밀쳐내다
-interplay|	상호작용
-norm|	규범, 기준
-attract|	끌다, 매혹하다
-controversial|	논란이 많은, 논쟁이 되는
-proof|	증거
-encourage|	격려하다, 장려하다
-wander|	방황하다
-intrigue|	호기심을 불러 일으키다, 음모를 꾸미다
-poison|	독
-general|	일반적인
-agent|	대리인
-overlap|	겹치다, 포개다
-pretend|	~인체하다
-comply|	순응하다
-attention|	주의 집중
-accomplish|	성취하다
-sculpture|	조각
-punishment|	처벌
-be reluctant to|	~하는 것을 꺼리다
-symbol|	상징
-refrain from Ving|	~하는걸 막다, 삼가하다
-pressure|	압력, 압박하다
-prey|	먹이
-acknowledge|	인정하다
-channel|	수로, 경로
-constant|	끊임없는
-dismount|	내려가다
-brutal|	야만적인, 사악한
-mobilize|	동원하다, 결집시키다
-nurture|	기르다, 양육하다
-fiber|	섬유, 섬유질
-notice|	알아채다, 눈치채다, 공지하다
-ecosystem|	생태계
-bring together|	묶다, 합치다
-comment|	말하다, 논평하다
-alert|	민감한, 위험,경고하다
-attain|	달성하다, 차지하다
-chop|	쪼개다
-publish|	출판하다
-melt|	녹이다
-validate|	증명하다, 타당하게 하다
-render|	만들다
-cure|	치료하다
-mandatory|	의무적인, 강제적인
-prohibit|	금지하다
-collapse|	쓰러지다, 주저앉다, 무너지다
-gain|	얻다
-regulation|	규제, 규정
-deliberate|	신중한, 심사숙고한, 고의로
-twist|	꼬임, 구불구불한
-adverse|	역의, 반대의, 불리한
-tap|	두드리다
-contact|	접촉하다, 연락하다
-insulate|	단열하다
-inflict|	(고통) 주다, 가하다
-heredity|	유전
-acid|	산, 산성인
-relative|	친척
-respond|	응답하다, 반응하다
-administer|	관리하다, 주다
-instinct|	본능
-nag|	잔소리로 괴롭히다, 들볶다
-invaluable|	매우 귀중한
-radical|	급진적인
-skeleton|	골격, 뼈대
-sage|	현인, 현자
-procedure|	절차
-result in|	야기하다, 초래하다
-seldom|	좀처럼 ~아니다(부정)
-retain|	보유하다
-be prone to v|	~하기 쉽다
-broadcast|	방송하다, 방송
-entertain|	즐겁게 하다
-result from|	~로부터 나오다
-horizontal|	수평의
-funeral|	장례식
-amuse|	~을 즐겁게 하다
-detour|	우회하다
-unselfish|	이타적인
-integrate|	통합시키다.
-define|	정의하다
-pointed|	뾰족한
-waste|	쓰레기, 낭비, 낭비하다
-bias|	편견
-whisper|	속삭이다
-announce|	알리다, 발표하다
-take into account|	고려하다.
-expiration|	(계약)만료
-discover|	발견하다
-counter|	반대하다, 반대, 반대로
-condense|	응축하다, 압축하다, 요약하다
+decay|	부패하다,부패
 attitude|	태도
-obligation|	의무
-nutrition|	영양분
-inflation|	부풀림
-sentence|	문장
-conflict|	갈등
-restriction|	제한, 규제
-audience|	관중
-affection|	애정
-identify with|	~와 동일시 하다.
-heir|	상속자
-intake|	섭취
-release|	출시하다, 내놓다
-unit|	(구성)단위
-stem|	줄기
-companionship|	동료애
-reptile|	파충류
-meanwhile|	한편
-suitable|	알맞은, 적절한
-command|	명령하다, 명령
-consider|	생각하다, 고려하다
-yield to|	양보하다, 굴복하다
-sequence|	연속, 순서
+corrupt|	썩은, 부패시키다, 매수하다
+painkiller|	진통제
+eliminate|	제거하다
+budget|	예산
+observance|	준수
+perform|	수행하다
+mediate|	중재하다
+fee|	요금
+colleague|	동료
+fluid|	유동적인, 체액, 수분
+slightly|	약간, 조금
+indispensable|	버릴수 없는, 필수적인
+evade|	회피하다
+displace|	옮기다, 교체하다
+bring together|	묶다, 합치다
+raw|	날것의, 원재료의
+advantage|	이점
+accuracy|	정확성
+regime|	정권
+diligence|	부지런함
+detect|	찾다
+entangle|	얽히다
+whereas|	반면에
+extra|	여분의, 특별한
+pioneer|	개척자
+wonder|	궁금히 여기다
+content|	내용, 만족한
+inquire|	질문하다
+insurance|	보험
+temporarily|	일시적으로, 임시적으로
+rise to one's feet|	일어서다
+hesitate|	주저하다
 bend|	구부리다
-be inclined to|	~하는 경향이 있다
-terminate|	끝내다, 종결시키다
-meet|	충족시키다
-circuit|	순회, 회전
-corporation|	기업, 업체
-refuse to v|	to v할 것을 거부하다
-head for|	~로 향하다
-regression|	퇴화
-ripple|	퍼지다, 물결이 일다
+pursue|	추구하다
+trim|	손질하다, 손질된
+supply|	공급하다
+attack|	공격하다
+paralyze|	마비시키다
+be obsessed with|	강박관념을 가지다, 사로잡히다
+appropriate|	적절한, 알맞은
+amend|	개정하다, 수정하다
+astonish|	~을 놀라게 하다
+combine|	결합시키다
+mountain (= chain)|	산맥
+selection|	선택
+keep ~ing|	계속해서 ~ing 하다
+certificate|	인증서, 증명서
+regret|	후회하다
+detour|	우회하다
+perpetual|	영속적인
+administration|	관리, 경영, 행정부
+politician|	정치가
+procession|	행렬, 전진
+humility|	겸손
+slide|	미끄러져 움직이다
+plant|	심다, 식물
+receive|	받다
+respiration|	호흡
+couch|	소파
+aggravate|	악화시키다
+alternative|	대안, 양자택일의
+suitable|	알맞은, 적절한
+devour|	게걸스럽게 먹다
+transmission|	전달, 전송
+stop |목 from ~ing	목적어가 ~ing 하는 것을 막다
+quantity|	양
+manifest|	나타내다, 나타나다.
+dictator|	독재자
+precision|	정확성
+no longer (= not |~ any more)	더이상 ~아니다
+condense|	응축하다, 압축하다, 요약하다
+portion|	일부, 부분, 몫
+morale|	사기
+dimension|	차원, 측면
+shovel|	삽
+sip|	모금, 찔끔마시다
+generosity|	관대
+superb|	최고의
+resist|	저항하다
+destination|	목적지
+remote|	~먼, 멀리 떨어진
+strict|	엄격한
+advertise|	광고하다
+stir|	휘젓다, 자극하다
+grasp|	쥐다, 붙잡다, 붙잡기
+diabetes|	당뇨
+ethnic|	민족의
+conceivable|	생각할수 있는, 상상할 수있는
+evaluate|	평가하다
+industry|	산업
+direct|	지시하다, 관리하다, ~을 향하게 하다
+underlie|	~의 근본이 되다
+handle|	다루다, 취급하다
+contact|	접촉하다, 연락하다
+stride|	큰걸음, 큰걸음으로 걷다
+transform|	변형시키다
+hypothesize|	가설을 세우다
+atmosphere|	대기, 분위기
