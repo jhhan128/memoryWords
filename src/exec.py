@@ -9,23 +9,13 @@ import random
 import threading
 import platform
 
-current_dir = os.path.dirname(__file__)
-parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
 
 def pre_run():
-    os_name = platform.system()
-    database_dir = 'lib/database.txt'
-    result_dir = 'lib/result.txt'
-    inf_dir = 'lib/inf.txt'
-
-    if os_name == "Windows":
-        database_dir = 'lib\\database.txt'
-        result_dir = 'lib\\result.txt'
-        inf_dir = 'lib\\inf.txt'
-
-    database_dir = os.path.join(parent_dir, database_dir)
-    result_dir = os.path.join(parent_dir, result_dir)
-    inf_dir = os.path.join(parent_dir, inf_dir)
+    current_dir = os.path.abspath(os.path.dirname(__file__))
+    
+    database_dir = os.path.join(current_dir, 'database.txt')
+    result_dir = os.path.join(current_dir, 'result.txt')
+    inf_dir = os.path.join(current_dir, 'inf.txt')
 
     ip2 = open(inf_dir, 'r')
 
