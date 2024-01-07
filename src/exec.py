@@ -23,13 +23,17 @@ def pre_run():
         result_dir = 'lib\\result.txt'
         inf_dir = 'lib\\inf.txt'
 
+    database_dir = os.path.join(parent_dir, database_dir)
+    result_dir = os.path.join(parent_dir, result_dir)
+    inf_dir = os.path.join(parent_dir, inf_dir)
+
     ip2 = open(inf_dir, 'r')
 
     s = ip2.readline()
     s = ip2.readline()
     length = int(s)
 
-    ip = open(os.path.join(parent_dir, database_dir), 'r')
+    ip = open(database_dir, 'r')
     op = open(result_dir, 'w')
 
     arr = []
