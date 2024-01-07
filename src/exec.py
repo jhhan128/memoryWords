@@ -7,16 +7,30 @@ from playsound import playsound
 import os
 import random
 import threading
+import platform
+
+current_dir = os.path.dirname(__file__)
+parent_dir = os.path.abspath(os.path.join(current_dir, '..'))
 
 def pre_run():
-    ip2 = open("lib/inf.txt", 'r')
+    os_name = platform.system()
+    database_dir = 'lib/database.txt'
+    result_dir = 'lib/result.txt'
+    inf_dir = 'lib/inf.txt'
+
+    if os_name == "Windows":
+        database_dir = 'lib\\database.txt'
+        result_dir = 'lib\\result.txt'
+        inf_dir = 'lib\\inf.txt'
+
+    ip2 = open(inf_dir, 'r')
 
     s = ip2.readline()
     s = ip2.readline()
     length = int(s)
 
-    ip = open("lib/database.txt", 'r')
-    op = open("lib/result.txt", 'w')
+    ip = open(os.path.join(parent_dir, database_dir), 'r')
+    op = open(result_dir, 'w')
 
     arr = []
 
@@ -27,6 +41,8 @@ def pre_run():
 
     random.shuffle(arr)
     for i in range(min(len(arr), length)): op.write(arr[i])
+
+    return result_dir
 
 
 class WordQuizApp(QWidget):
@@ -184,7 +200,7 @@ class WordQuizApp(QWidget):
 
 
 if __name__ == '__main__':
-    pre_run()
+    result_dir = pre_run()
     app = QApplication(sys.argv)
-    ex = WordQuizApp("lib/result.txt")
+    ex = WordQuizApp(result_dir)
     sys.exit(app.exec_())
