@@ -14,3 +14,6 @@ A simple word-memory program based on Python.
 > pip3 install playsound
 > pip3 install PyQt5
 ```
+
+## How to use
+1. Make your
