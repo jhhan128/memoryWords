@@ -24,6 +24,9 @@ A simple word-memory program based on Python.
 > pip3 install PyQt5
 ```
 > Note: On Higer version of `playsound`, there may be an error at playing the sound, please use version `1.2.2`
+
+
+
 ## How to use
 1. Make your word list. The word and its meaning has to be divided by `|`, like `like|simmilar to`, and add the list to `dist` folder.
 
@@ -32,4 +35,7 @@ A simple word-memory program based on Python.
 3. When everything is finished, you can run the program by running `Windows_RUN.bat` or `macOS_RUN.sh`.
 
 
+
 ## Screenshots
+
+<img width="718" alt="스크린샷 2024-01-07 20 57 48" src="https://github.com/jhhan128/memoryWords/assets/54146988/5b732ae9-7092-4679-927d-be59351af048">
