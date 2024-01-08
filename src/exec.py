@@ -23,7 +23,7 @@ def pre_run():
     s = ip2.readline()
     length = int(s)
 
-    ip = open(database_dir, 'r')
+    ip = open(database_dir, 'r', encoding='UTF8')
     op = open(result_dir, 'w')
 
     arr = []
@@ -189,7 +189,6 @@ class WordQuizApp(QWidget):
         final_result_label.setFont(QFont("NanumBarunGothic", 36, QFont.Medium))
         final_result_label.setAlignment(Qt.AlignCenter)
         final_result_label.setText(result_message)
-        final_result_label.setStyleSheet("color: White;")
         self.layout.addWidget(final_result_label, 0, 0, 1, 2, Qt.AlignCenter)
 
 

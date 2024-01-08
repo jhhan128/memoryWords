@@ -20,10 +20,10 @@ A simple word-memory program based on Python.
 - **Required Python libraries** - `gTTS`, `playsound`, `PyQt5`
 ```
 > pip3 install gTTS
-> pip3 install playsound
+> pip3 install playsound==1.2.2
 > pip3 install PyQt5
 ```
-
+> Note: On Higer version of `playsound`, there may be an error at playing the sound, please use version `1.2.2`
 ## How to use
 1. Make your word list. The word and its meaning has to be divided by `|`, like `like|simmilar to`, and add the list to `lib` folder.
 
