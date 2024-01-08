@@ -2,6 +2,8 @@
 
 A simple word-memory program based on Python.
 
+[Download version 1.1](https://github.com/jhhan128/memoryWords/raw/main/memoryWords.zip)
+
 ## Features
 1. When you give personal word list, this program helps to memorize them.
 
@@ -10,8 +12,6 @@ A simple word-memory program based on Python.
 3. It shows word, and pronounces it. (Voice by Google TTS)
 
 4. 4 different choices of meanings will be shown, and you'll have to choose the right answer.
-
-## Screenshots
 
 
 ## Requirements
@@ -25,11 +25,11 @@ A simple word-memory program based on Python.
 ```
 > Note: On Higer version of `playsound`, there may be an error at playing the sound, please use version `1.2.2`
 ## How to use
-1. Make your word list. The word and its meaning has to be divided by `|`, like `like|simmilar to`, and add the list to `lib` folder.
+1. Make your word list. The word and its meaning has to be divided by `|`, like `like|simmilar to`, and add the list to `dist` folder.
 
-2. Then you'll have to enter the informations about how you're going to use this program. Open the file `lib/inf.txt`, and add the informations the file requires.
+2. Then you'll have to enter the informations about how you're going to use this program. Open the file `dist/inf.txt`, and add the informations the file requires.
 
-3. When everything is finished, you can run the program by running `src/exec.py`.
-```
-> python3 src/exec.py
-```
+3. When everything is finished, you can run the program by running `Windows_RUN.bat` or `macOS_RUN.sh`.
+
+
+## Screenshots
