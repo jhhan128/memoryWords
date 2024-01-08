@@ -9,10 +9,8 @@ import random
 import threading
 import platform
 
-
 def pre_run():
     current_dir = os.path.abspath(os.path.dirname(__file__))
-    
     database_dir = os.path.join(current_dir, 'database.txt')
     result_dir = os.path.join(current_dir, 'result.txt')
     inf_dir = os.path.join(current_dir, 'inf.txt')
@@ -23,7 +21,7 @@ def pre_run():
     s = ip2.readline()
     length = int(s)
 
-    ip = open(database_dir, 'r', encoding='UTF8')
+    ip = open(database_dir, 'r',encoding='UTF-8')
     op = open(result_dir, 'w')
 
     arr = []
@@ -184,7 +182,7 @@ class WordQuizApp(QWidget):
         self.progress_info_label.deleteLater()
 
         # Add the result message label
-        result_message = f"{self.correct_answers} / {self.total_questions} ({round(100*(self.correct_answers/self.total_questions))})"
+        result_message = f"{self.correct_answers} / {self.total_questions} ({round(100*(self.correct_answers/self.total_questions))}%)"
         final_result_label = QLabel(self)
         final_result_label.setFont(QFont("NanumBarunGothic", 36, QFont.Medium))
         final_result_label.setAlignment(Qt.AlignCenter)
